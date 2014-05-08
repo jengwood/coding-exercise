@@ -1,0 +1,54 @@
+body {
+	background-color: #232323;
+}
+
+.container{
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	margin-left: auto;
+	margin-right: auto;
+	width:800px;
+	height: 600px;
+	background: url("../image/ab-jg.jpg") no-repeat;
+	color: #FFFFFF;
+}
+
+h1 {
+	margin: 10px 10px 10px 3px;
+}
+
+span {
+	float: right;
+	margin-top: 12px;
+}
+
+span.number {
+	color: #B22222;
+	font-size: 15px;
+	margin-right: 5px;
+}
+
+span.mentions {
+	color: #CFCFCF;
+	font-size: 14px;
+	margin-right: 10px;
+}
+
+li {
+	width: 100%;
+	clear: both;
+	display: table;
+	margin-left: 5px;
+}
+
+ul {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 238px 0 0;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 17px;
+	float: left;
+}
